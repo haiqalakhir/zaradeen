@@ -24,7 +24,7 @@
     justify-content: center;
     align-items: center;
     gap: 16px;
-    max-width: 1400px;
+    max-width: 800px;
     margin: 0 auto;
     padding: 20px 10px;
   }
@@ -32,7 +32,6 @@
   .gallery a {
     display: flex;
     flex-wrap: wrap;
-    
     max-width: 350px;
 }
 
